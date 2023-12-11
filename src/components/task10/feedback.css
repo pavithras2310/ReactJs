@@ -1,0 +1,15 @@
+.bg-col{
+    background-image: linear-gradient(to right, rgb(223, 205, 208), pink);
+    height: 100vh;
+    width: 100vw;
+}
+.immg{
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
+.immg1{
+    width: 130px;
+    height: 130px;
+    margin: 20px;
+}
